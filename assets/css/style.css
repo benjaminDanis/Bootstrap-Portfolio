@@ -1,0 +1,75 @@
+h1 {
+	background-color: #eee;
+	float: left;
+	padding: 25px;
+	margin-left: 100px;
+	font-family: 'Georgia', Times, Times, serif;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+header .nav{
+	padding-top: 53px;
+	margin-right: 100px;
+	
+}
+
+header {
+	border-bottom: 3px solid #eee;
+	width: 100%;
+}
+
+.container {
+	margin-top: 50px;
+}
+
+img { 
+	float: left;
+	clear: both;
+	display: inline;
+
+ }
+
+ p {
+ 	display: inline;
+ 	float: left;
+ 	clear: both;
+ 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;.
+ }
+
+ footer {
+ 	border-top: 4px solid black;
+ 	background-color: #eee;
+ 	margin-top: 50px;
+ 	padding-top: 35px;
+ 	padding-bottom: 100px;
+ 	font-size: 75%;
+ 	width: 100%;
+ 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;.
+
+ }
+ footer h4 {
+ 	width: 50%;
+ 	margin: 0px auto;
+ 	text-align: center;
+ }
+
+#connect {
+	margin-left: 20px;
+}
+
+.card {
+	margin: 20px;
+}
+
+
+
+
+
+
+
+
+
+
